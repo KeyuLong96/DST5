@@ -1,3 +1,2 @@
-本项目为DST第五次项目.
-为期一个月.
+This is the assessment 5 of Data Science Toolbox.
 

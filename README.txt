@@ -1,4 +1,4 @@
-## This is the assessment 5 of Data Science Toolbox.
+This is the assessment 5 of Data Science Toolbox.
 
 The members of group are Keyu Long, Yewei Yuan, Mateusz Janczak, Kostas Anstasakis.
 

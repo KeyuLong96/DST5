@@ -12,12 +12,14 @@ The members of group are
 ### We will build beta version in colab or BC4.
 
 #### The methods we can try are:
-1. Neural Network
-2. Convolutional Neural Network
-3. Autoencoder
-4. Recurrent Neural Network
+1. Neural Network(this should be done with feature extraction)
+2. Autoencoder(this also should be done with feature extraction)
+3. Convolutional Neural Network
+4. Recurrent Neural Network(LSTM)
 
 #### Processing step:
-1. Natural Language Processing
-2. Classification
-3. Prediction
+1. (Feature Engineering)
+2. Natural Language Processing
+3. Classification
+4. Prediction
+
